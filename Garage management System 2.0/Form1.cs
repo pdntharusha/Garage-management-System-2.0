@@ -41,7 +41,7 @@ namespace Garage_management_System_2._0
 
             // You can implement your authentication logic here.
             // For demonstration purposes, we'll use a simple check.
-            if (username == "p" && password == "p")
+            if (username == "admin" && password == "admin")
             {
                 // Successful login action (open a new form or perform some other action)
                 MainForm mainForm = new MainForm();
