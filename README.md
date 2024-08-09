@@ -1,27 +1,28 @@
-# Garage Management System
+# Garage Management System 🚗🔧
 
-A Garage Management System built using ASP.NET and C#. This application helps in managing vehicle registrations, customer registrations, bill payments, and vehicle details efficiently.
+A Garage Management System built using ASP.NET and C#. This application helps in managing vehicle registrations, customer registrations, bill payments, and vehicle details efficiently through a Windows Forms interface.
 
-## Features
+## Features ✨
 
-- **Vehicle Registration**: Register new vehicles with detailed information.
-- **Customer Registration**: Manage customer data, including contact details.
-- **Bill Payments**: Handle billing and payment processing.
-- **Vehicle Details**: Add and update vehicle information such as make, model, and service history.
+- **Vehicle Registration**: Register new vehicles with detailed information. 🚙
+- **Customer Registration**: Manage customer data, including contact details. 👤
+- **Bill Payments**: Handle billing and payment processing. 💳
+- **Vehicle Details**: Add and update vehicle information such as make, model, and service history. 🛠️
 
-## Technologies Used
+## Technologies Used 💻
 
-- **ASP.NET**: For building the web application framework.
-- **C#**: The programming language used for backend development.
-- **SQL Server**: (Optional) For storing and managing data. (not completely implement yet)
+- **ASP.NET**: For backend development and business logic.
+- **C#**: The programming language used for development.
+- **Windows Forms**: For the user interface.
+- **SQL Server**: (Optional) For storing and managing data.
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
 - Visual Studio or any C# compatible IDE
-- .NET Framework/CORE installed
-- SQL Server 
+- .NET Framework installed
+- SQL Server (if using a database)
 
 ### Installation
 
@@ -32,23 +33,26 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 
 2. Open the solution file (`.sln`) in Visual Studio.
 
-3. Build and run the project.
+3. Configure the database connection in the `appsettings.json` file (if applicable).
 
+4. Build and run the project.
 
+## Usage 🖥️
 
-## Usage
-
-- Access the system via the web interface.
+- Launch the application using Windows Forms.
 - Use the navigation menu to manage vehicles, customers, and billing.
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! Please fork this repository and submit a pull request.
 
-## License
+## License 📜
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Contact
+## Contact 📧
 
-For any inquiries, please contact [pdntharusha@gmail.com].
+For any inquiries, please contact [Pdntharusha@gmail.com].
+```
+
+Feel free to replace placeholders with your actual information and adjust as needed!
