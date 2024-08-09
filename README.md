@@ -38,7 +38,7 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 
 4. Build and run the project.
 
-5. Username - p password - p
+5. Username - admin , Password - admin
 
 ## Usage 🖥️
 
