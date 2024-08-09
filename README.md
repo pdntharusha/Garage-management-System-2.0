@@ -1,4 +1,4 @@
-# Garage Management System 🚗🔧
+# Garage Management System 2.0 🚗🔧
 
 A Garage Management System built using ASP.NET and C#. This application helps in managing vehicle registrations, customer registrations, bill payments, and vehicle details efficiently through a Windows Forms interface.
 
@@ -29,7 +29,7 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pdntharusha/garage-management-system.git
+    git clone https://github.com/pdntharusha/Garage-management-System-2.0.git
     ```
 
 2. Open the solution file (`.sln`) in Visual Studio.
