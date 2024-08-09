@@ -14,15 +14,16 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 - **ASP.NET**: For backend development and business logic.
 - **C#**: The programming language used for development.
 - **Windows Forms**: For the user interface.
-- **SQL Server**: (Optional) For storing and managing data.
+- **SQL Server**: (Optional) For storing and managing data. (not completely implemented yet)
 
+  
 ## Getting Started 🚀
 
 ### Prerequisites
 
 - Visual Studio or any C# compatible IDE
 - .NET Framework installed
-- SQL Server (if using a database)
+- SQL Server 
 
 ### Installation
 
@@ -36,6 +37,8 @@ A Garage Management System built using ASP.NET and C#. This application helps in
 3. Configure the database connection in the `appsettings.json` file (if applicable).
 
 4. Build and run the project.
+
+5. Username - p password - p
 
 ## Usage 🖥️
 
